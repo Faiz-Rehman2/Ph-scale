@@ -1,7 +1,6 @@
 div{
     text-align: center;
-    gap: 0%;
-    line-height: 35px;
+
 }
 body{
     text-align: center;
@@ -18,44 +17,83 @@ h1{
 
 #one{
     background-color: #0000cf;
+    margin: 0%;
+    padding: 6px;
 }
 
 #two{
+    margin: 0%;
+    padding: 6px;
     background-color: #2d2dff;
 }
 #three{
+    margin: 0%;
+    padding: 6px;
     background-color: #4e4eff;
 }
 #four{
+    margin: 0%;
+    padding: 6px;
+    
     background-color: #7373ff;
 }
 #five{
+    margin: 0%;
+    padding: 6px;
+    
     background-color: #9191ff ;
 }
 #six{
+    margin: 0%;
+    padding: 6px;
+    
     background-color: #a7a7ff;
 }
 #seven{
+    
+    margin: 0%;
+    padding: 6px;
     background-color: #00aa5b;
 }
 #eight{
+    
+    margin: 0%;
+    padding: 6px;
     background-color: #facbe8;
 }
 #nine{
+    
+    margin: 0%;
+    padding: 6px;
     background-color: #dfa4db;
 }
 #ten{
+    
+    margin: 0%;
+    padding: 6px;
     background-color: #ff7acc;
 }
 #eleven{
+    
+    margin: 0%;
+    padding: 6px;
     background-color: #fd54bc;
 }
 #twelve{
+    
+    margin: 0%;
+    padding: 6px;
     background-color: #fa29aa;
 }
 #thirteen{
+    
+    margin: 0%;
+    padding: 6px;
     background-color: #ff009d;
 }
 #fourteen{
+    
+    margin: 0%;
+    padding: 6px;
     background-color: #ca347a;
 }
